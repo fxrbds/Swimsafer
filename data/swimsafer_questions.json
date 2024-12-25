@@ -1,0 +1,1235 @@
+{
+    "sections": [
+        {
+            "label": "Environmental Awareness",
+            "items": [
+                {
+                    "question": "Which of the following should you do to stay safe during kayaking?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "Wear a Personal Floatation Device (PFD)"
+                        },
+                        {
+                            "answer": "Check the weather condition before the start of the activity"
+                        },
+                        {
+                            "answer": "Look out for strong winds, waves, rocks and reefs"
+                        },
+                        {
+                            "answer": "All of the above",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "The warning signs at the river, reservoir, park or beach, tell us about the ___________________________.",
+                    "answers": [
+                        {
+                            "answer": "toilets nearby"
+                        },
+                        {
+                            "answer": "shelters nearby"
+                        },
+                        {
+                            "answer": "tourist attractions in the area"
+                        },
+                        {
+                            "answer": "possible dangers in the area",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following lists the dangers in open water?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "Rip currents"
+                        },
+                        {
+                            "answer": "Strong and large waves"
+                        },
+                        {
+                            "answer": "Watercraft such as boats and jet skis"
+                        },
+                        {
+                            "answer": "All of the above",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following is NOT a correct way of getting into a swimming pool safely?",
+                    "answers": [
+                        {
+                            "answer": "Wading into the water slowly"
+                        },
+                        {
+                            "answer": "Climbing down the pool ladder"
+                        },
+                        {
+                            "answer": "Diving into the water without checking the depth of the water",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "Sitting on the edge facing the water and lowering your body into it feet first"
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following guidelines should you observe when you are the beach?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "Swim along the shoreline"
+                        },
+                        {
+                            "answer": "Swim between the red and yellow flags"
+                        },
+                        {
+                            "answer": "Put on proper swim wear before swimming"
+                        },
+                        {
+                            "answer": "All of the above",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "If you are unable to see the bottom of a river, reservoir, stream or quarry, which of the following lists some of the dangers there?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "Big ships and vessels"
+                        },
+                        {
+                            "answer": "No danger since nothing can be seen"
+                        },
+                        {
+                            "answer": "Underwater objects, rocks, weeds, muddy bottom, and unknown depth",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "None of the above"
+                        }
+                    ]
+                },
+                {
+                    "question": "Everyone on board a watercraft should wear a Personal Floatation Device (PFD).",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "False"
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following should a child do when he sees an uncovered bucket full of water in the toilet?",
+                    "answers": [
+                        {
+                            "answer": "Play with the water"
+                        },
+                        {
+                            "answer": "Ignore it and walk away"
+                        },
+                        {
+                            "answer": "Get an adult to empty the bucket",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "Pour half of the water into another bucket and get an adult to empty the bucket"
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following is a way of checking the strength of a river current?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "Jumping into the river to feel its current"
+                        },
+                        {
+                            "answer": "Leaning forward from the bank of the river and using one hand to feel its current"
+                        },
+                        {
+                            "answer": "Throwing in a stick and seeing how quickly it flows down the river",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "None of the above"
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following should you NOT do at the beach?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "Dive into the water"
+                        },
+                        {
+                            "answer": "Swim without supervision"
+                        },
+                        {
+                            "answer": "Jump off rocks"
+                        },
+                        {
+                            "answer": "All of the above",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following is where you can find out more about the rules at a swimming pool?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "The signs around the pool area"
+                        },
+                        {
+                            "answer": "The safety symbols along the poolside"
+                        },
+                        {
+                            "answer": "The pool lifeguards or staff"
+                        },
+                        {
+                            "answer": "All of the above",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "A good swimmer does not need to wear a Personal Floatation device (PFD) during a watercraft activity.",
+                    "answers": [
+                        {
+                            "answer": "True"
+                        },
+                        {
+                            "answer": "False",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following is a tip for staying safe at the beach?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "Swim at a beach with lifeguards"
+                        },
+                        {
+                            "answer": "Read and obey warning signs before entering the water"
+                        },
+                        {
+                            "answer": "Always swim under the supervision of a responsible adult"
+                        },
+                        {
+                            "answer": "All of the above",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "At a condominium pool with no lifeguards on duty, someone is struggling in the water. Which of the following is the most suitable person to approach for help?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "The Police Coast Guard"
+                        },
+                        {
+                            "answer": "The Singapore Navy"
+                        },
+                        {
+                            "answer": "The nearest adult passer-by",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "None of the above"
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following should you NOT do before entering the pool?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "Have a shower"
+                        },
+                        {
+                            "answer": "Have a heavy meal",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "Apply sunscreen"
+                        },
+                        {
+                            "answer": "None of the above"
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following weather conditions should you be avoided for outdoor swimming?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "A sunny and bright day"
+                        },
+                        {
+                            "answer": "A clear and windy day"
+                        },
+                        {
+                            "answer": "A clear day with a lightning risk alert",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "All of the above"
+                        }
+                    ]
+                },
+                {
+                    "question": "It is always safe to dive into the river or sea because open water is deeper than a swimming pool.",
+                    "answers": [
+                        {
+                            "answer": "True"
+                        },
+                        {
+                            "answer": "False",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following is where you should swim at a designated beach?",
+                    "answers": [
+                        {
+                            "answer": "Anywhere"
+                        },
+                        {
+                            "answer": "In front of ships"
+                        },
+                        {
+                            "answer": "Next to a motor boat"
+                        },
+                        {
+                            "answer": "In between the red and yellow flags",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "An eight year old boy was invited for a swim at the pool. Should he inform his parents?",
+                    "answers": [
+                        {
+                            "answer": "Yes, he should inform his parents and ask them for permission",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "No, he should be able to swim without adult supervision"
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following should you NOT do when you visit a beach, lake or river overseas?",
+                    "answers": [
+                        {
+                            "answer": "Go alone and swim unsupervised",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "Ask a local if you are unsure of the current conditions"
+                        },
+                        {
+                            "answer": "Only participate in activities such as swimming and canoeing in designated recreational areas"
+                        },
+                        {
+                            "answer": "Scan carefully for obstacles and other potential dangers before you consider entering the water safely"
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following should you look out for when you are on board a boat or cruise ship?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "The nearest exit from your location"
+                        },
+                        {
+                            "answer": "The location of the life jacket"
+                        },
+                        {
+                            "answer": "The safety booklet of the boat or cruise ship"
+                        },
+                        {
+                            "answer": "All of the above",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following is a possible danger at a canal after a storm?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "No danger"
+                        },
+                        {
+                            "answer": "Shark attack"
+                        },
+                        {
+                            "answer": "Fast flowing water",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "None of the above"
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following is the most suitable person to approach for assistance at the pool?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "A stranger"
+                        },
+                        {
+                            "answer": "A child"
+                        },
+                        {
+                            "answer": "A lifeguard",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "None of the above"
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following items in and around the home may pose a danger to a child?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "A bathtub filled with water"
+                        },
+                        {
+                            "answer": "A large fish tank filled with water"
+                        },
+                        {
+                            "answer": "A large bucket filled with water"
+                        },
+                        {
+                            "answer": "All of the above",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "You and your friends come across a canal on your way home. The water in the canal is not deep. Which of the following should you do?",
+                    "answers": [
+                        {
+                            "answer": "Go down into the canal to play"
+                        },
+                        {
+                            "answer": "Throw stones and pebbles into the canal"
+                        },
+                        {
+                            "answer": "Encourage my friends to climb into the canal to play"
+                        },
+                        {
+                            "answer": "Continue walking home",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following is most likely to cause an accident at the pool?",
+                    "answers": [
+                        {
+                            "answer": "Climbing down the pool ladder to enter the water"
+                        },
+                        {
+                            "answer": "Running around the pool playing with one of your friends",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "Diving into a deep pool under your instructor's supervision"
+                        },
+                        {
+                            "answer": "Following the instructions of the lifeguard and your instructor"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "Health Awareness",
+            "items": [
+                {
+                    "question": "Which of the following should you do to protect yourself against harmful ultraviolet (UV) rays?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "Apply sunscreen"
+                        },
+                        {
+                            "answer": "Wear sun protection accessories"
+                        },
+                        {
+                            "answer": "Avoid the strongest rays of the day"
+                        },
+                        {
+                            "answer": "All of the above",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "You should not swim when you feel unwell.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "False"
+                        }
+                    ]
+                },
+                {
+                    "question": "You should reapply sunscreen every two hours during water activities.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "False"
+                        }
+                    ]
+                },
+                {
+                    "question": "You are swimming for more than an hour. Which of the following states how often you should drink to stay hydrated?",
+                    "answers": [
+                        {
+                            "answer": "Only before the session"
+                        },
+                        {
+                            "answer": "Before, during, and after the session",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "Not necessary to hydrate since you are in the water"
+                        },
+                        {
+                            "answer": "Only after the session"
+                        }
+                    ]
+                },
+                {
+                    "question": "You should not swim if you have an open wound on your body.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "False"
+                        }
+                    ]
+                },
+                {
+                    "question": "If you have a medical condition such as asthma or a heart problem, which of the following must you do when you are swimming at a public pool?",
+                    "answers": [
+                        {
+                            "answer": "Swim as usual"
+                        },
+                        {
+                            "answer": "Swim as long as you feel fine"
+                        },
+                        {
+                            "answer": "Swim as long as you have taken your medication"
+                        },
+                        {
+                            "answer": "Inform the lifeguard about your condition",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "Avoid the sun between _____________________ when the ultraviolet index is the highest.",
+                    "answers": [
+                        {
+                            "answer": "1 and 3 a.m."
+                        },
+                        {
+                            "answer": "7 and 9 a.m."
+                        },
+                        {
+                            "answer": "12 and 2 p.m.",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "7 and 9 p.m."
+                        }
+                    ]
+                },
+                {
+                    "question": "If you vomit in the pool or see someone who has vomited in the pool, which of the following must you do?",
+                    "answers": [
+                        {
+                            "answer": "Swim away from the vomitus"
+                        },
+                        {
+                            "answer": "Push the vomitus away"
+                        },
+                        {
+                            "answer": "Alert the lifeguard or pool staff immediately",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "Ignore the vomitus and continue swimming"
+                        }
+                    ]
+                },
+                {
+                    "question": "You will still get dehydrated during swimming because your body will perspire in the water.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "False"
+                        }
+                    ]
+                },
+                {
+                    "question": "You should not ___________________ in the swimming pool.",
+                    "answers": [
+                        {
+                            "answer": "urinate",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "use a float"
+                        },
+                        {
+                            "answer": "wear a swim cap"
+                        },
+                        {
+                            "answer": "wear a pair of goggles"
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following is a benefit of swimming?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "It helps build stamina"
+                        },
+                        {
+                            "answer": "It helps build strength"
+                        },
+                        {
+                            "answer": "It helps build water confidence"
+                        },
+                        {
+                            "answer": "All of the above",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following should you do when using sunscreen?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "Use water-resistant sunscreen"
+                        },
+                        {
+                            "answer": "Use sunscreen with an SPF of 30 or higher"
+                        },
+                        {
+                            "answer": "Reapply often and especially during prolonged activities in the water"
+                        },
+                        {
+                            "answer": "All of the above",
+                            "isCorrect": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "Principles of Personal Safety and Survival",
+            "items": [
+                {
+                    "question": "A child can swim alone if he or she has taken swimming lessons.",
+                    "answers": [
+                        {
+                            "answer": "True"
+                        },
+                        {
+                            "answer": "False",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "The Personal Floatation Device (PFD) is used to keep a conscious person afloat.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "False"
+                        }
+                    ]
+                },
+                {
+                    "question": "When you are thrown off a boat without a Personal Floatation Device (PFD), you can use your clothing to make a float for survival.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "False"
+                        }
+                    ]
+                },
+                {
+                    "question": "You should wear a Personal Floatation Device (PFD) when canoeing.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "False"
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following is part of the Water Smart Code?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "Go Together"
+                        },
+                        {
+                            "answer": "Know the Dangers"
+                        },
+                        {
+                            "answer": "Take Safety Advice"
+                        },
+                        {
+                            "answer": "All of the above",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "Before diving into the pool, you must ensure that _____________________.",
+                    "answers": [
+                        {
+                            "answer": "the water is clear"
+                        },
+                        {
+                            "answer": "the water is unclear"
+                        },
+                        {
+                            "answer": "the water is clear and deep",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "the water is clear and shallow"
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following activities requires you to put on a Personal Floatation Device (PFD)?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "Showering"
+                        },
+                        {
+                            "answer": "Kayaking",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "Playing at the beach"
+                        },
+                        {
+                            "answer": "All of the above"
+                        }
+                    ]
+                },
+                {
+                    "question": "In case of emergency in the water, which of the following numbers should you call?",
+                    "answers": [
+                        {
+                            "answer": "957"
+                        },
+                        {
+                            "answer": "911"
+                        },
+                        {
+                            "answer": "958"
+                        },
+                        {
+                            "answer": "995",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following should you do if you experience cramp in the water?",
+                    "answers": [
+                        {
+                            "answer": "Panic and cry"
+                        },
+                        {
+                            "answer": "Scream and shout"
+                        },
+                        {
+                            "answer": "Pull and hold on the nearest person to you"
+                        },
+                        {
+                            "answer": "Relax, roll onto your back, and wave for help with one arm",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "If someone needs help in the water, you should ____________________.",
+                    "answers": [
+                        {
+                            "answer": "walk away"
+                        },
+                        {
+                            "answer": "watch from the side and do nothing"
+                        },
+                        {
+                            "answer": "jump in immediately to save the person"
+                        },
+                        {
+                            "answer": "throw an object that can float to the person",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following is a sign of dehydration?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "Increased thirst"
+                        },
+                        {
+                            "answer": "Increased body temperature"
+                        },
+                        {
+                            "answer": "Sudden feeling of tiredness"
+                        },
+                        {
+                            "answer": "All of the above",
+                            "isCorrect": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "Emergency Situations and Survival Techniques",
+            "items": [
+                {
+                    "question": "Which of the following is a distress signal?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "Swimming under-water"
+                        },
+                        {
+                            "answer": "Immersing your head in the water"
+                        },
+                        {
+                            "answer": "Waving your arms and shouting for help",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "None of the above"
+                        }
+                    ]
+                },
+                {
+                    "question": "If you drifted out to the ocean alone, which of the following should you do?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "Stay calm and do not panic"
+                        },
+                        {
+                            "answer": "Hold anything that will help you float"
+                        },
+                        {
+                            "answer": "Look out and listen for any incoming aircraft or ships, and draw their attention by splashing around in the water and waving and shouting for help"
+                        },
+                        {
+                            "answer": "All of the above",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "One of the reasons why someone needs to swim underwater is to find an object.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "False"
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following describes the Heat Escape Lessening Posture (H.E.L.P.)?",
+                    "answers": [
+                        {
+                            "answer": "It is a technique used when performing a rescue"
+                        },
+                        {
+                            "answer": "It is a technique used when wearing a Personal Floatation Device (PFD)"
+                        },
+                        {
+                            "answer": "It is a position used to call for help easily"
+                        },
+                        {
+                            "answer": "It is a position used to save energy and prevent heat loss in a cold water immersion",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "If you were to fall off a boat in the ocean fully clothed without a Personal Floatation Device (PFD), which of the following should you do?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "Remove heavy items of clothing that is heavy"
+                        },
+                        {
+                            "answer": "Leave on a layer of clothing to minimise heat loss"
+                        },
+                        {
+                            "answer": "Inflate your pants or shirt/jacket to use as a floatation aid"
+                        },
+                        {
+                            "answer": "All of the above",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "In a deep water emergency situation, you should remove items of clothing that are too heavy.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "False"
+                        }
+                    ]
+                },
+                {
+                    "question": "If you were swept out by a current, which of the following should you do to retain body heat?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "Remain as still as possible"
+                        },
+                        {
+                            "answer": "Avoid immersing your head in the water"
+                        },
+                        {
+                            "answer": "Adopt the Heat Escape Lessening Posture (H.E.L.P.)"
+                        },
+                        {
+                            "answer": "All of the above",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following should you do if you were caught in a fast-flowing river?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "Remain calm and swim underwater"
+                        },
+                        {
+                            "answer": "Remain calm and swim against the current"
+                        },
+                        {
+                            "answer": "Remain calm and try to float feet first in a half-sitting position",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "All of the above"
+                        }
+                    ]
+                },
+                {
+                    "question": "If you were swept out by a current, which of the following should you do to save energy?",
+                    "answers": [
+                        {
+                            "answer": "Swim the butterfly stroke"
+                        },
+                        {
+                            "answer": "Swim against the current"
+                        },
+                        {
+                            "answer": "Keep your arms out of the water"
+                        },
+                        {
+                            "answer": "Hold anything that will help you float",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following stroke can be used to save energy in a deep water emergency?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "Survival sidestroke"
+                        },
+                        {
+                            "answer": "Survival backstroke"
+                        },
+                        {
+                            "answer": "Survival breaststroke"
+                        },
+                        {
+                            "answer": "All of the above",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "Treading water is a survival technique in a deep water survival situation.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "False"
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following should you do when performing survival swimming?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "Adopt the Heat Escape Lessening Posture (H.E.L.P) or huddle position"
+                        },
+                        {
+                            "answer": "Remain calm, breathe regularly and swim with slow relaxed strokes"
+                        },
+                        {
+                            "answer": "Change position and stroke to save energy and avoid overusing your muscles"
+                        },
+                        {
+                            "answer": "All of the above",
+                            "isCorrect": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "Rescue",
+            "items": [
+                {
+                    "question": "If you are not confident to rescue someone in trouble in the water, which of the following should you do?",
+                    "answers": [
+                        {
+                            "answer": "Use a mobile phone to contact a friend for help"
+                        },
+                        {
+                            "answer": "Walk away quietly as you are not confident"
+                        },
+                        {
+                            "answer": "Perform the rescue even though you are not confident"
+                        },
+                        {
+                            "answer": "Alert a lifeguard or an adult passer-by for help or call 995 for assistance",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following shows the correct sequence of the four As in any rescue?",
+                    "answers": [
+                        {
+                            "answer": "Awareness, Action, Aftercare, Assessment"
+                        },
+                        {
+                            "answer": "Awareness, Assessment, Action, Aftercare",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "Assessment, Action, Aftercare, Awareness"
+                        },
+                        {
+                            "answer": "Assessment, Awareness, Action, Aftercare"
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following describes a non-swimmer victim?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "May submerge for periods of time"
+                        },
+                        {
+                            "answer": "Assumes a vertical position in the water"
+                        },
+                        {
+                            "answer": "Struggles desperately with grabbing and climbing actions"
+                        },
+                        {
+                            "answer": "All of the above",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "An unconscious victim may be facing up or down in the water and is not moving.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "False"
+                        }
+                    ]
+                },
+                {
+                    "question": "One of the four As in rescue is ____________________.",
+                    "answers": [
+                        {
+                            "answer": "Assessment",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "Amazement"
+                        },
+                        {
+                            "answer": "Amusement"
+                        },
+                        {
+                            "answer": "Astonishment"
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following can be used to perform a throw rescue?",
+                    "answers": [
+                        {
+                            "answer": "A water bottle"
+                        },
+                        {
+                            "answer": "A fire extinguisher"
+                        },
+                        {
+                            "answer": "A pair of shoes"
+                        },
+                        {
+                            "answer": "A float",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following is a situation for using a talk rescue?",
+                    "keepLastAnswer": true,
+                    "answers": [
+                        {
+                            "answer": "When the person is conscious"
+                        },
+                        {
+                            "answer": "When the person is close enough to the rescuer"
+                        },
+                        {
+                            "answer": "When the person is capable of responding to instructions"
+                        },
+                        {
+                            "answer": "All of the above",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "question": "If you cannot swim, which of the following rescue techniques should you use?",
+                    "answers": [
+                        {
+                            "answer": "Talk rescue",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "Contact tow"
+                        },
+                        {
+                            "answer": "Swim rescue"
+                        },
+                        {
+                            "answer": "Non-contact tow"
+                        }
+                    ]
+                },
+                {
+                    "question": "A child should inform a lifeguard immediately when he or she sees someone struggling in the pool.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "False"
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of the following is a dry rescue technique?",
+                    "answers": [
+                        {
+                            "answer": "Tow rescue"
+                        },
+                        {
+                            "answer": "Wade rescue"
+                        },
+                        {
+                            "answer": "Throw rescue",
+                            "isCorrect": true
+                        },
+                        {
+                            "answer": "Accompany rescue"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
